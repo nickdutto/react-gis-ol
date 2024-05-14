@@ -1,3 +1,4 @@
 {
-  "cSpell.words": ["openlayers"]
+  "cSpell.words": ["openlayers"],
+  "conventionalCommits.scopes": ["website"]
 }
