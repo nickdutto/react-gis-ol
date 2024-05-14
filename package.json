@@ -1,7 +1,19 @@
 {
   "name": "react-gis-ol",
-  "private": true,
+  "description": "React Components for OpenLayers",
   "version": "0.0.0",
+  "private": false,
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nickdutto/react-gis-ol.git"
+  },
+  "keywords": [
+    "react",
+    "openlayers",
+    "react-gis-ol",
+    "react openlayers"
+  ],
   "type": "module",
   "main": "dist/main.js",
   "types": "dist/main.d.ts",
