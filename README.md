@@ -122,7 +122,7 @@ Contributions are what make the open source community such an amazing place to l
 
 ## License
 
-Distributed under the MIT License. See `LICENSE` for more information.
+Distributed under the MIT License. See [LICENSE][license-url] for more information.
 
 <p align="right">
   (<a href="#readme-top">back to top</a>)
@@ -149,8 +149,8 @@ Distributed under the MIT License. See `LICENSE` for more information.
 [stars-url]: https://github.com/nickdutto/react-gis-ol/stargazers
 [issues-shield]: https://img.shields.io/github/issues/nickdutto/react-gis-ol.svg?style=for-the-badge
 [issues-url]: https://github.com/nickdutto/react-gis-ol/issues
-[license-shield]: https://img.shields.io/github/license/nickdutto/react-gis-ol.svg?style=for-the-badge
-[license-url]: https://github.com/nickdutto/react-gis-ol/blob/master/LICENSE.txt
+[license-shield]: https://img.shields.io/github/license/nickdutto/react-gis-ol?style=for-the-badge
+[license-url]: https://github.com/nickdutto/react-gis-ol/blob/master/LICENSE.md
 [product-screenshot]: images/screenshot.png
 [Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
 [Next-url]: https://nextjs.org/
