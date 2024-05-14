@@ -5,9 +5,10 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
+[![NPM Version][version-shield]][version-url]
+![NPM Weekly Downloads][downloads-shield]
 
 <!-- PROJECT LOGO -->
-<br />
 <div align="center">
   <!-- <a href="https://github.com/nickdutto/react-gis-ol">
     <img src="images/logo.png" alt="Logo" width="80" height="80">
@@ -16,12 +17,12 @@
 <h3 align="center">react-gis-ol</h3>
 
   <p align="center">
-    React Components for OpenLayers
+    React wrapper for OpenLayers
     <br />
-    <a href="https://github.com/nickdutto/react-gis-ol"><strong>Explore the docs »</strong></a>
+    <a href="https://nickdutto.github.io/react-gis-ol/"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/nickdutto/react-gis-ol">View Demo</a>
+    <a href="https://nickdutto.github.io/react-gis-ol/">View Demo</a>
     ·
     <a href="https://github.com/nickdutto/react-gis-ol/issues/new?labels=bug&template=bug-report---.md">Report Bug</a>
     ·
@@ -151,6 +152,9 @@ Distributed under the MIT License. See [LICENSE][license-url] for more informati
 [issues-url]: https://github.com/nickdutto/react-gis-ol/issues
 [license-shield]: https://img.shields.io/github/license/nickdutto/react-gis-ol?style=for-the-badge
 [license-url]: https://github.com/nickdutto/react-gis-ol/blob/master/LICENSE.md
+[version-shield]: https://img.shields.io/npm/v/react-gis-ol?style=for-the-badge
+[version-url]: https://www.npmjs.com/package/react-gis-ol
+[downloads-shield]: https://img.shields.io/npm/dw/react-gis-ol?style=for-the-badge
 [product-screenshot]: images/screenshot.png
 [Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
 [Next-url]: https://nextjs.org/
