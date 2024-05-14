@@ -1,7 +1,7 @@
 {
   "name": "react-gis-ol",
   "description": "React Components for OpenLayers",
-  "version": "0.0.0",
+  "version": "0.1.1",
   "private": false,
   "license": "MIT",
   "repository": {
