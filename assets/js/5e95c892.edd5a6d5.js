@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkreact_gis_ol_website=self.webpackChunkreact_gis_ol_website||[]).push([[647],{9253:(e,s,r)=>{r.r(s),r.d(s,{default:()=>n});r(758);var t=r(3526),a=r(3781),c=r(8459),u=r(389),i=r(2288),l=r(6070);function n(e){return(0,l.jsx)(a.e3,{className:(0,t.A)(c.G.wrapper.docsPages),children:(0,l.jsx)(i.A,{children:(0,u.v)(e.route.routes)})})}}}]);
