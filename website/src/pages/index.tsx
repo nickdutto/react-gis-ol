@@ -9,8 +9,9 @@ import styles from './index.module.css';
 
 const Home = () => {
   const { siteConfig } = useDocusaurusContext();
+
   return (
-    <Layout title={`Home | ${siteConfig.title}`}>
+    <Layout title="Home">
       <header className={clsx('hero hero--primary', styles.heroBanner)}>
         <div className="container">
           <Heading as="h1" className="hero__title">
