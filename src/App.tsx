@@ -1,22 +1,10 @@
-import { useState } from 'react';
-import reactLogo from './assets/react.svg';
-import viteLogo from '/vite.svg';
 import './App.css';
-import '../dist/assets/style.css';
-import { Button, Label, Input } from '../';
+
+import viteLogo from '/vite.svg';
+
+import reactLogo from './assets/react.svg';
 
 function App() {
-  const [count, setCount] = useState(0);
-  const [inputCustomCountValue, setInputCustomCountValue] = useState('');
-
-  const handleClickCustomCount = () => {
-    if (inputCustomCountValue === '') {
-      setCount((count) => count + 1);
-    } else {
-      setCount(Number(inputCustomCountValue));
-    }
-  };
-
   return (
     <>
       <div>
@@ -29,15 +17,6 @@ function App() {
       </div>
       <h1>Vite + React</h1>
       <div className="card">
-        <Label>My Label</Label>
-        <br />
-        <Input
-          placeholder="Custom count"
-          value={inputCustomCountValue}
-          onChange={(e) => setInputCustomCountValue(e.target.value)}
-        />
-        <br />
-        <Button onClick={handleClickCustomCount}>count is {count}</Button>
         <p>
           Edit <code>src/App.tsx</code> and save to test HMR
         </p>
